@@ -30,7 +30,7 @@ spec:
     spec:
       containers:
          - name: super-mario
-           image: abhipraydh96/super-mario
+           image: kaali28/super-mario
            ports:
              - containerPort: 80
 ---
