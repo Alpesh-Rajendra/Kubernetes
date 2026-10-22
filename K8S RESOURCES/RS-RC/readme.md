@@ -71,7 +71,7 @@ spec:
    spec: 
     containers:
      - name: c1 
-       image: abhipraydh96/yoga 
+       image: kaali28/yoga 
        ports:
        - containerPort: 80
 
@@ -126,7 +126,7 @@ spec:
     spec: 
      containers:
       - name: c2 
-        image: abhipraydh96/coffee 
+        image: kaali28/coffee 
         ports:
         - containerPort: 80
 ---
